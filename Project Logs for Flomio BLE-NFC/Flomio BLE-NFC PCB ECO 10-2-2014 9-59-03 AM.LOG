@@ -1,6 +1,0 @@
-Added Component: Designator=TP21(VIA28)
-Added Component: Designator=TP22(VIA28)
-Added Pin To Net: NetName=NetC39_2 Pin=TP21-1
-Added Pin To Net: NetName=GND Pin=TP22-1
-Added Member To Class: ClassName=U_Flomio BLE-NFC - RFID Member=Component TP21 TP
-Added Member To Class: ClassName=U_Flomio BLE-NFC - RFID Member=Component TP22 TP

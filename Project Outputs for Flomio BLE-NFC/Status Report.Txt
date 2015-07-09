@@ -1,9 +1,0 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [Build] of Project [Flomio BLE-NFC.PrjPCB]
-
-
-Files Generated   : 0
-Documents Printed : 0
-
-Finished Output Generation At 1:58:38 AM On 12/9/2013
